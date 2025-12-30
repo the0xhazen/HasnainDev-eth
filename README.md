@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasnain</h1>
+<h1 align="center">Hi 👋, I'm Häzen</h1>
 <h3 align="center">Web3 Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1054881307248820376/1057404984125313104/hasnaindev.eth_A_boy_with_smile_for_Nft_with_cyberpanck_insprie_670a10a8-1f77-4fc3-81a0-694aff719b08.png?width=603&height=603">
 - 🌱 I’m currently learning **React Native,Rust**
